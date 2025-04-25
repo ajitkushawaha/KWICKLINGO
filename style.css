@@ -309,7 +309,6 @@
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
     transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     transform: perspective(1000px) rotateY(0deg);
-    text-align: center;
   }
   
   .feature-card:hover {
